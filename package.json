@@ -32,7 +32,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rstacruz/stylelint-rscss.git"
+    "url": "git+https://github.com/nurdiansyah/stylelint-rscss.git"
   },
   "scripts": {
     "errors": "stylelint 'fixtures/*'; true",
