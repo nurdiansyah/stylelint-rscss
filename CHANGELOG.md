@@ -1,3 +1,9 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [1.0.0](https://github.com/nurdiansyah/stylelint-rscss/compare/v0.4.0...v1.0.0) (2020-09-29)
+
 ## [v0.4.0]
 > Apr  3, 2017
 
