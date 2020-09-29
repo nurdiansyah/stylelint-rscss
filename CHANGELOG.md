@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/nurdiansyah/stylelint-rscss/compare/v1.0.1...v1.0.2) (2020-09-29)
+
+
+### Bug Fixes
+
+* array splitBy ([40d9aac](https://github.com/nurdiansyah/stylelint-rscss/commit/40d9aac))
+
 ### [1.0.1](https://github.com/nurdiansyah/stylelint-rscss/compare/v1.0.0...v1.0.1) (2020-09-29)
 
 
