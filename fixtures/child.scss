@@ -1,6 +1,10 @@
 .component-name {
-  > .goodelement {
+  > .goodelement.-active {
     color: blue;
+  }
+
+  .not-error1 {
+    color: yellow;
   }
 
   .badelement {
@@ -10,4 +14,8 @@
       color: red;
     }
   }
+}
+
+._helper {
+  background-color: white;
 }
